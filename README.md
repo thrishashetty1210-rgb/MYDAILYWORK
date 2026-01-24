@@ -1,4 +1,4 @@
-# 🚀 MyDailyWorker Java Internship Tasks
+#  MyDailyWorker Java Internship Tasks
 
 This repository contains all the tasks completed during my Java Programming Internship at MyDailyWorker.
 
