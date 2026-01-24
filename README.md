@@ -2,7 +2,6 @@
 
 This repository contains all the tasks completed during my Java Programming Internship at MyDailyWorker.
 
-
 ## ✅ Task 1 – Number Guessing Game
 
 ### Description
@@ -30,3 +29,35 @@ java NumberGuessingGame
 
 ### 📸 Output
 Output screenshot available inside the Task-1 folder.
+
+---
+
+## ✅ Task 2 – Student Grade Calculator
+
+### Description
+A console-based Java application that calculates total marks, average percentage, and assigns grades based on marks entered for multiple subjects.
+
+### Features
+- Accepts number of subjects
+- Takes marks input for each subject
+- Calculates total marks
+- Computes average percentage
+- Automatic grade assignment (A–F)
+- Displays final result summary
+
+### Technologies Used
+- Java
+- Scanner
+- Loops
+- Conditional statements
+
+### ▶ How to Run
+```
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
+```
+
+### 📸 Output
+Output screenshot available inside the Task-2 folder.
+
+
