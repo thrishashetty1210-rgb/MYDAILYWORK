@@ -1,6 +1,8 @@
-#  MyDailyWorker Java Internship Tasks
+# 💼 MyDailyWorker Java Internship Tasks
 
 This repository contains all the tasks completed during my Java Programming Internship at MyDailyWorker.
+
+---
 
 ## ✅ Task 1 – Number Guessing Game
 
@@ -60,4 +62,33 @@ java StudentGradeCalculator
 ### 📸 Output
 Output screenshot available inside the Task-2 folder.
 
+---
 
+## ✅ Task 3 – ATM Interface
+
+### Description
+A console-based Java application that simulates basic ATM operations such as checking balance, depositing money, and withdrawing money using Object-Oriented Programming concepts.
+
+### Features
+- Check account balance
+- Deposit money
+- Withdraw money
+- Input validation (insufficient balance handling)
+- Menu-driven interface
+- Uses separate classes for ATM and Bank Account
+
+### Technologies Used
+- Java
+- Scanner
+- OOP Concepts (Encapsulation, Classes, Methods)
+- Conditional statements
+- Loops
+
+### ▶ How to Run
+```
+javac ATMInterface.java
+java ATMInterface
+```
+
+### 📸 Output
+Output screenshot available inside the Task-3 folder.
